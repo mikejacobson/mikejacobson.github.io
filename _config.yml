@@ -1,5 +1,3 @@
 #Jekyll config
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: false
+markdown: GFM
+auto_ids: false
