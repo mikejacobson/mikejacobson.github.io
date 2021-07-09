@@ -2,3 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+
+
+.anchorjs-link {
+  opacity: 0.5;
+}
